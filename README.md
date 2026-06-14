@@ -1,4 +1,4 @@
-![](irisffmpeg.png)
+<img src="irisffmpeg.png" alt="IrisFFmpeg" style="border-radius: 50px;" />
 
 # IrisFFmpeg
 
