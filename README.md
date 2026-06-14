@@ -1,4 +1,8 @@
-<img src="irisffmpeg.png" alt="IrisFFmpeg" style="border-radius: 50px;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pictures/irisffmpeg_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="pictures/irisffmpeg_light.png">
+  <img alt="IrisFFmpeg Logo" src="path/to/default-logo.png">
+</picture>
 
 # IrisFFmpeg
 
